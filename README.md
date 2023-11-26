@@ -84,7 +84,7 @@ Langsung hubungi via Telegram / Whatsapp
 ### FEATURE SCRIPT IMAGE
 ![vmess](https://github.com/waroengvpn/scriptvp/blob/172b02eecc81bdf7c8adc4b3e23059c69b859f1b/photo_2023-11-07_20-26-01.jpg?raw=true)
 ![system](https://raw.githubusercontent.com/waroengvpn/scriptvps/main/photo_2023-11-25_13-05-48.jpg)
-![bandwith](https://raw.githubusercontent.com/waroengvpn/scriptvp/main/photo_2023-11-25_13-06-08.jpg)
-![trial](https://raw.githubusercontent.com/waroengvpn/scriptvp/main/photo_2023-11-25_13-06-08.jpg)
-![ssh](https://raw.githubusercontent.com/waroengvpn/scriptvp/main/photo_2023-11-25_13-06-28.jpg)
-![menu](https://raw.githubusercontent.com/waroengvpn/scriptvp/main/photo_2023-11-26_23-30-05.jpg)
+![bandwith](https://raw.githubusercontent.com/waroengvpn/scriptvps/main/photo_2023-11-25_13-06-08.jpg)
+![trial](https://raw.githubusercontent.com/waroengvpn/scriptvps/main/photo_2023-11-25_13-06-08.jpg)
+![ssh](https://raw.githubusercontent.com/waroengvpn/scriptvps/main/photo_2023-11-25_13-06-28.jpg)
+![menu](https://raw.githubusercontent.com/waroengvpn/scriptvps/main/photo_2023-11-26_23-30-05.jpg)
