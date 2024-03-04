@@ -68,12 +68,11 @@ apt update && apt upgrade -y && update-grub && sleep 2 && reboot
 
 # Installation ScriptVPS
 ```
-apt update -y && apt upgrade -y && apt dist-upgrade -y && wget -o https://raw.githubusercontent.com/waroengvpn/scriptvps/master/installer && chmod +x installer
- && ./installer```
+[apt update -y && apt upgrade -y && apt dist-upgrade -y && wget -o https://raw.githubusercontent.com/waroengvpn/scriptvps/master/p.sh && chmod +x p.sh
+ && ./p.sh```]
 
 
-### SETTING CLOUDFLARE
-```
+```### SETTING CLOUDFLARE
 - SSL/TLS : FULL
 - SSL/TLS Recommender : OFF
 - GRPC : ON
