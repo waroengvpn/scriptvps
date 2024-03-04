@@ -71,6 +71,7 @@ apt update && apt upgrade -y && update-grub && sleep 2 && reboot
 apt update -y && apt upgrade -y && apt dist-upgrade -y && wget -o https://raw.githubusercontent.com/waroengvpn/scriptvps/master/installer && chmod +x installer
  && ./installer```
 
+
 ### SETTING CLOUDFLARE
 ```
 - SSL/TLS : FULL
